@@ -5,7 +5,7 @@
 // 
 // Create Date: 24.01.2022 21:30:44
 // Design Name: 
-// Module Name: PWM_controller
+// Module Name: timer_controller
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
